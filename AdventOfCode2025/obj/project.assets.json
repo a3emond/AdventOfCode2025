@@ -8,24 +8,31 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/a3emond/.nuget/packages/": {}
+    "C:\\Users\\a3emo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/a3emond/dev/AdventOfCode2025/AdventOfCode2025/AdventOfCode2025/AdventOfCode2025.csproj",
+      "projectUniqueName": "D:\\dev\\AdventOfCode2025\\AdventOfCode2025\\AdventOfCode2025.csproj",
       "projectName": "AdventOfCode2025",
-      "projectPath": "/Users/a3emond/dev/AdventOfCode2025/AdventOfCode2025/AdventOfCode2025/AdventOfCode2025.csproj",
-      "packagesPath": "/Users/a3emond/.nuget/packages/",
-      "outputPath": "/Users/a3emond/dev/AdventOfCode2025/AdventOfCode2025/AdventOfCode2025/obj/",
+      "projectPath": "D:\\dev\\AdventOfCode2025\\AdventOfCode2025\\AdventOfCode2025.csproj",
+      "packagesPath": "C:\\Users\\a3emo\\.nuget\\packages\\",
+      "outputPath": "D:\\dev\\AdventOfCode2025\\AdventOfCode2025\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/a3emond/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\a3emo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -65,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/Users/a3emond/.dotnet/sdk/9.0.308/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
